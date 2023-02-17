@@ -1,0 +1,19 @@
+# Traffic Light Simulation
+
+This is a simulation of a traffic light at a pedestrian crosswalk, implemented as an extended state machine in Python.
+
+## Requirements
+
+- Python 3
+
+## Installation
+
+1. Clone or download this repository.
+2. Navigate to the project directory in a terminal.
+3. Run the simulation with the command `python traffic_light_simulation.py`.
+
+## Output
+
+The simulation will output the state of the traffic light, the input from the pedestrian, and the output signals every second, as shown in the following example:
+
+
